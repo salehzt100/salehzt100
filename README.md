@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saleh Zetawi</h1>
 <h3 align="center">A Computer Systems Engineering Student from Palestine</h3>
 
-- 🔭 I’m currently working on **Facebook API using Laravel**
+- 🔭 I’m currently working on **Facebook API using php along with some Laravel components.**
 
 - 🌱 I’m currently learning **Laravel,Node.js .**
 
