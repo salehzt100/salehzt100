@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Facebook API using Laravel**
 
-- 🌱 I’m currently learning **Laravel, JavaScript.**
+- 🌱 I’m currently learning **Laravel,Node.js .**
 
 - 📫 How to reach me **salehzetawi15@gmail.com**
 
